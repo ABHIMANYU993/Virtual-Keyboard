@@ -40,3 +40,13 @@ Code Execution
 	* Run the VirtualKeyboard.py to start the virtual keyboard application.
 	* Use hand gestures to type, with keys highlighted when selected.
 	* Press "F2" to terminate the program.
+ 
+Dependencies
+
+	* OpenCV
+ 	* Mediapipe
+  	* NumPy
+   	* PyAutoGUI, Keyboard, Pynput
+ 	
+ 
+
