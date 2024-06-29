@@ -272,7 +272,7 @@ while True:
 
     cv2.imshow("Image", img)
 
-    # Exit the loop on 'F1' key press
+    # Exit the loop on 'F2' key press
     if cv2.waitKey(1) and keyboard.is_pressed("f2"):
         pyautogui.keyUp('ctrl')
         pyautogui.keyUp('shift')
